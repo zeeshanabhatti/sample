@@ -1,5 +1,3 @@
-<!--LOGIN SYSTEM-->
-<script type="text/javascript"><!--
 // Create an array to store user objects with usernames, passwords, and expiry dates
 var users = [
   { username: 'user1', password: '123123', expiryDate: new Date(2023, 2, 25) },
@@ -50,4 +48,3 @@ if (!excludedPages.includes(window.location.href)) {
     }
   }
 }
---></script>
